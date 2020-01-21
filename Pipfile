@@ -7,7 +7,7 @@ verify_ssl = true
 pylint = "*"
 
 [packages]
-django = ">=2.29"
+django = ">=2.2.9"
 djangorestframework = "*"
 django-cors-headers = "*"
 
